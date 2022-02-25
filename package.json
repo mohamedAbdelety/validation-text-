@@ -1,0 +1,19 @@
+{
+  "name": "valid-text",
+  "version": "1.0.0",
+  "description": "valid text package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedAbdelety/validation-text-.git"
+  },
+  "author": "Mohamed Abdelaty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedAbdelety/validation-text-/issues"
+  },
+  "homepage": "https://github.com/mohamedAbdelety/validation-text-#readme"
+}
